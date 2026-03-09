@@ -84,7 +84,7 @@ VBS/      Unity VR project for Visible Boundary System
 testfile/ .apk files for testing
 experiment/        Experiment protocol and questionnaires
 data/              Sample experimental data
-media/             Demo videos and screenshots
+media/             Demo videos
 docs/              System diagrams and documentation
 ```
 
