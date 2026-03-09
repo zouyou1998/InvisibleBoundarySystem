@@ -79,7 +79,9 @@ The study measured:
 ## Repository Structure
 
 ```
-UnityProject/      Unity VR project
+IBS/      Unity VR project for Invisible Boundary System
+VBS/      Unity VR project for Visible Boundary System
+testfile/ .apk files for testing
 experiment/        Experiment protocol and questionnaires
 data/              Sample experimental data
 media/             Demo videos and screenshots
@@ -94,7 +96,6 @@ Software:
 
 * Unity (recommended version used in this project)
 * Meta XR Audio SDK
-* VR headset compatible with Unity (e.g., Meta Quest)
 
 Hardware:
 
@@ -117,8 +118,11 @@ Assets/Scenes/MainScene.unity
 ```
 
 4. Connect the VR headset
+   
+5. Change the music file
 
-5. Press **Play** to start the experiment environment.
+6. Press **Play** to start the experiment environment.
+
 
 ---
 
@@ -138,6 +142,8 @@ Supervisors:
 
 * Prof. Dr. Ceenu George
 * Prof. Dr. Stefan Weinzierl
+* Rishab Bhattacharyya
+* Christian Scheer
 
 ---
 
