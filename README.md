@@ -81,11 +81,10 @@ The study measured:
 ```
 IBS/      Unity VR project for Invisible Boundary System
 VBS/      Unity VR project for Visible Boundary System
-testfile/ .apk files for testing
 experiment/        Experiment protocol and questionnaires
 data/              Sample experimental data
 media/             Demo videos
-docs/              System diagrams and documentation
+docs/              System diagrams
 ```
 
 ---
